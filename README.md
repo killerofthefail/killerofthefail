@@ -9,9 +9,9 @@ killerofthefail/killerofthefail is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 ///Selamünaleyküm
-///biraz bilinenin aksine amatörlük olarak bildiğimiz istikametin tersine ilerleyişimi o yönde devam ettirmeyi uygun gördüm .
+///biraz bilinenin aksine amatörlük olarak bildiğimiz yoldan  gitmemiz gerektiğine ina inanmalıyız.
 /////Sebebi ise  o yöndeki ilerleyişin karışıklık yüzünden  farkedilemeyecek bir yola çıktığını fark ettirmek .Hayırlara Vesile olmasını Allah azze ve celle den niyaz eder;sizlerinde dusını ve haberlerini bekleriz.
-/////Basamak aydınlartma,Sıralı basamak aydınlartma
+///// İlerleyişin başlangıcı  teknoloji üretim araştırma geliştirme durumu isim= akıllı ev sistemleri ;anlam(yaşamsal sistem son  durum );
 /////entegre programllama  başlangıç.
 ///ilk  adım  enerji iletişimini sağlayacak  teknolojinin iletim yolunun belirlenme  si
 /programlama ara yüzü Arduino
